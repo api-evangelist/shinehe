@@ -1,7 +1,34 @@
 aid: shinehe
-name: shinehe
-description: shinehe is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/shinehe.png
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
+name: Shinehe (Hangzhou Xinzeyuan Medical Technology)
+description: >-
+  Shinehe (Hangzhou Xinzeyuan Medical Technology Co., Ltd. / 杭州鑫泽源医疗科技有限公司)
+  is a Hangzhou, China based contract development and manufacturing organization
+  (CDMO) for the minimally invasive medical device sector. Founded in 2015, the
+  company provides precision component manufacturing, customized development, and
+  OEM/ODM services covering endoscope accessories (insertion, operation, and light
+  guide components), single-use consumables (hemostasis, biopsy, EMR, dilation),
+  rigid endoscope components, and minimally invasive surgical instruments, aiming
+  to be a global minimally invasive medical device supply-chain platform. Surfaced
+  as a portfolio company of Qiming Venture Partners and added to the API Evangelist
+  network. No public API, developer portal, or SDK surface was found during
+  enrichment; this profile is maintained as a company identity record.
 url: https://raw.githubusercontent.com/api-evangelist/shinehe/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +38,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Medical Devices
+- Healthcare
+- CDMO
+- Manufacturing
+- Minimally Invasive Surgery
+- Endoscopy
+- China
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +56,12 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://shinehe.com
+  url: https://www.shinehe.com
+- type: About
+  url: https://www.shinehe.com/About.html
+- type: Blog
+  url: https://www.shinehe.com/news/5/
+- type: Support
+  url: https://www.shinehe.com/CONTACT.html
+- type: DomainSecurity
+  url: security/shinehe-domain-security.yml
