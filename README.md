@@ -1,4 +1,4 @@
-# shinehe
+# Shinehe (Hangzhou Xinzeyuan Medical Technology)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-shinehe is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Shinehe (Hangzhou Xinzeyuan Medical Technology Co., Ltd. / 杭州鑫泽源医疗科技有限公司) is a Hangzhou, China based contract development and manufacturing organization (CDMO) for the minimally invasive medical device sector. Founded in 2015, the company provides precision component manufacturing, customized development, and OEM/ODM services covering endoscope accessories (insertion, operation, and light guide components), single-use consumables (hemostasis, biopsy, EMR, dilation), rigid endoscope components, and minimally invasive surgical instruments, aiming to be a global minimally invasive medical device supply-chain platform. Surfaced as a portfolio company of Qiming Venture Partners and added to the API Evangelist network. No public API, developer portal, or SDK surface was found during enrichment; this profile is maintained as a company identity record.
 
-Backed by: qiming — https://shinehe.com
+**Areas:** Company · Medical Devices · Healthcare · CDMO · Manufacturing · Minimally Invasive Surgery · Endoscopy · China
+
+## Shinehe (Hangzhou Xinzeyuan Medical Technology) on APIs.io
+
+Everything profiled for Shinehe (Hangzhou Xinzeyuan Medical Technology) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shinehe/](https://apis.io/providers/shinehe/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Shinehe Domain Security](https://apis.io/security/shinehe/shinehe-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.shinehe.com)
+- [Support](https://www.shinehe.com/CONTACT.html)
+- [Blog](https://www.shinehe.com/news/5/)
+
+## API Evangelist rating
+
+**Kin Score 5.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shinehe/](https://apis.io/providers/shinehe/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Shinehe (Hangzhou Xinzeyuan Medical Technology): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shinehe/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
